@@ -2,8 +2,8 @@
 A python gui app to increase your workFlow by 20% if used properly
 
 
-## Python GUI App created to assist your WorkFlow 
-### it is a simple app where u can select your most Used apps so that u can start all selexted apps on one Click 
+## Python GUI App created to assist your WorkFlow Speed
+### it is a simple app where you can select your most Used apps so that you can start all selected apps on one Click 
 
 ## Why should u use this App 
 ### intead of you Hebernating your PC because u do not want to start your setting up your work station 
@@ -12,7 +12,7 @@ A python gui app to increase your workFlow by 20% if used properly
 # HOW TO USE THIS APP 
 ### Install Python if not already install
 ### CLone or Download this repository 
-### and simply laod the App 
+### and simply click on 'app.py' 
 
 
 
