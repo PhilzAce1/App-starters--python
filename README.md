@@ -1,4 +1,4 @@
-![flow](img/flow.jpg)
+![flow](img/flow.png)
 # PyFlow
 
 A GUI application built in python to increase workflow by 20%. It allows you run your most used applications with a single click.
