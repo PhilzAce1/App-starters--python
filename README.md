@@ -1,26 +1,32 @@
-# App-starters--python
-A python gui app to increase your workFlow by 20% if used properly
+![flow](img/flow.png)
+# PyFlow
 
+A GUI application built in python to increase workflow by 20%. It allows you run your most used applications with a single click.
 
-## Python GUI App created to assist your WorkFlow Speed
-### it is a simple app where you can select your most Used apps so that you can start all selected apps on one Click 
+## Why use PyFlow?
+* Save PC app state (this saves all running applications then restarts them when you just turn on your PC)
+* Easy launching of applications
 
-## Why should u use this App 
-### intead of you Hebernating your PC because u do not want to start your setting up your work station 
-### you can simply use this app to save all your most used apps and start them on one click 
+## Using PyFlow
+* Setup Python & install all dependencies
+* Add apps to run
+* Select & run apps
 
-# HOW TO USE THIS APP 
-### Install Python if not already install
-### CLone or Download this repository 
-### and simply click on 'app.py' 
+## Progress
+* Working prototype
 
+## TODO
+* Smoother UI
+* Better Code Structure
+* Ability to delete apps
+* Running app in startup
 
+## Future Updates
+* Automating CLI commands
 
-#### please note that this app is simple and light 
-#### this app is still under construction 
+## Authors
+* [PhilzAce1](https://github.com/PhilzAce1)
+* [LordGhostX](https://github.com/LordGhostX)
 
-# **features to be implemented**
-##### delete all button
-##### delete one button 
-##### better design 
-##### app should start when user turn on their system 
+## License
+* **MIT**
